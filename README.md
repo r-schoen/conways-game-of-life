@@ -12,12 +12,6 @@ A C# implementation of Conway's Game Of Life
 This is the main class library containing the implementation of Conway's Game of Life. To use, you simply declare a 
 GameOfLife object, with the specified parameters. To run, simply call the Update method. Update will return a boolean 
 indicating whether or not moves were made.
-Suggested syntax:
-```
-bool running = true;
-while(running)
-    running = gameOfLifeObject.Update();
-```
 
 ### conways-game-of-life
 This is a console project for testing the class library.
