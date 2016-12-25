@@ -1,0 +1,5 @@
+c:\dev\conways-game-of-life\IniLoader\bin\Debug\IniLoader.dll
+c:\dev\conways-game-of-life\IniLoader\bin\Debug\IniLoader.pdb
+c:\dev\conways-game-of-life\IniLoader\obj\Debug\IniLoader.csprojResolveAssemblyReference.cache
+c:\dev\conways-game-of-life\IniLoader\obj\Debug\IniLoader.dll
+c:\dev\conways-game-of-life\IniLoader\obj\Debug\IniLoader.pdb

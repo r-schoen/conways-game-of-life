@@ -1,0 +1,5 @@
+c:\dev\conways-game-of-life\gameOfLife\bin\Debug\gameOfLife.dll
+c:\dev\conways-game-of-life\gameOfLife\bin\Debug\gameOfLife.pdb
+c:\dev\conways-game-of-life\gameOfLife\obj\Debug\gameOfLife.csprojResolveAssemblyReference.cache
+c:\dev\conways-game-of-life\gameOfLife\obj\Debug\gameOfLife.dll
+c:\dev\conways-game-of-life\gameOfLife\obj\Debug\gameOfLife.pdb

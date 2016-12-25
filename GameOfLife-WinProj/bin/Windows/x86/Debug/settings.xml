@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameHeight>10</GameHeight>
+  <GameWidth>10</GameWidth>
+  <ChanceOfLife>50</ChanceOfLife>
+  <CellWidth>10</CellWidth>
+  <CellHeight>10</CellHeight>
+  <WindowWidth>800</WindowWidth>
+  <WindowHeight>800</WindowHeight>
+  <TurnTime>0.5</TurnTime>
+  <RecordGame>false</RecordGame>
+</Settings>

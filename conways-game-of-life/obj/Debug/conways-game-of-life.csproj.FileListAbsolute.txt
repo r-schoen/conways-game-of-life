@@ -1,0 +1,8 @@
+c:\dev\conways-game-of-life\conways-game-of-life\bin\Debug\conways-game-of-life.exe.config
+c:\dev\conways-game-of-life\conways-game-of-life\bin\Debug\conways-game-of-life.exe
+c:\dev\conways-game-of-life\conways-game-of-life\bin\Debug\conways-game-of-life.pdb
+c:\dev\conways-game-of-life\conways-game-of-life\bin\Debug\gameOfLife.dll
+c:\dev\conways-game-of-life\conways-game-of-life\bin\Debug\gameOfLife.pdb
+c:\dev\conways-game-of-life\conways-game-of-life\obj\Debug\conways-game-of-life.csprojResolveAssemblyReference.cache
+c:\dev\conways-game-of-life\conways-game-of-life\obj\Debug\conways-game-of-life.exe
+c:\dev\conways-game-of-life\conways-game-of-life\obj\Debug\conways-game-of-life.pdb
